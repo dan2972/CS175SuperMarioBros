@@ -3,6 +3,7 @@ conda activate rltest
 pip install setuptools==65.5.0 "wheel<0.40.0"
 pip install stable-baselines3==1.6.0
 pip install gym-super-mario-bros opencv-python imageio
+pip install "imageio[ffmpeg]"
 
 # install pytorch based on your machine
 
