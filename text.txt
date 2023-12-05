@@ -1,0 +1,2000 @@
+loading model 10000
+finished run 0
+finished run 1
+finished run 2
+finished model 10000	 avg reward: [217.]
+loading model 20000
+finished run 0
+finished run 1
+finished run 2
+finished model 20000	 avg reward: [250.]
+loading model 30000
+finished run 0
+finished run 1
+finished run 2
+finished model 30000	 avg reward: [379.33334]
+loading model 40000
+finished run 0
+finished run 1
+finished run 2
+finished model 40000	 avg reward: [270.]
+loading model 50000
+finished run 0
+finished run 1
+finished run 2
+finished model 50000	 avg reward: [260.66666]
+loading model 60000
+finished run 0
+finished run 1
+finished run 2
+finished model 60000	 avg reward: [256.33334]
+loading model 70000
+finished run 0
+finished run 1
+finished run 2
+finished model 70000	 avg reward: [257.66666]
+loading model 80000
+finished run 0
+finished run 1
+finished run 2
+finished model 80000	 avg reward: [227.66667]
+loading model 90000
+finished run 0
+finished run 1
+finished run 2
+finished model 90000	 avg reward: [253.66667]
+loading model 100000
+finished run 0
+finished run 1
+finished run 2
+finished model 100000	 avg reward: [272.33334]
+loading model 110000
+finished run 0
+finished run 1
+finished run 2
+finished model 110000	 avg reward: [257.66666]
+loading model 120000
+finished run 0
+finished run 1
+finished run 2
+finished model 120000	 avg reward: [394.66666]
+loading model 130000
+finished run 0
+finished run 1
+finished run 2
+finished model 130000	 avg reward: [378.66666]
+loading model 140000
+finished run 0
+finished run 1
+finished run 2
+finished model 140000	 avg reward: [595.]
+loading model 150000
+finished run 0
+finished run 1
+finished run 2
+finished model 150000	 avg reward: [256.66666]
+loading model 160000
+finished run 0
+finished run 1
+finished run 2
+finished model 160000	 avg reward: [354.66666]
+loading model 170000
+finished run 0
+finished run 1
+finished run 2
+finished model 170000	 avg reward: [372.66666]
+loading model 180000
+finished run 0
+finished run 1
+finished run 2
+finished model 180000	 avg reward: [352.33334]
+loading model 190000
+finished run 0
+finished run 1
+finished run 2
+finished model 190000	 avg reward: [320.66666]
+loading model 200000
+finished run 0
+finished run 1
+finished run 2
+finished model 200000	 avg reward: [1142.3334]
+loading model 210000
+finished run 0
+finished run 1
+finished run 2
+finished model 210000	 avg reward: [766.]
+loading model 220000
+finished run 0
+finished run 1
+finished run 2
+finished model 220000	 avg reward: [679.6667]
+loading model 230000
+finished run 0
+finished run 1
+finished run 2
+finished model 230000	 avg reward: [682.3333]
+loading model 240000
+finished run 0
+finished run 1
+finished run 2
+finished model 240000	 avg reward: [497.33334]
+loading model 250000
+finished run 0
+finished run 1
+finished run 2
+finished model 250000	 avg reward: [510.]
+loading model 260000
+finished run 0
+finished run 1
+finished run 2
+finished model 260000	 avg reward: [547.3333]
+loading model 270000
+finished run 0
+finished run 1
+finished run 2
+finished model 270000	 avg reward: [795.]
+loading model 280000
+finished run 0
+finished run 1
+finished run 2
+finished model 280000	 avg reward: [421.]
+loading model 290000
+finished run 0
+finished run 1
+finished run 2
+finished model 290000	 avg reward: [373.33334]
+loading model 300000
+finished run 0
+finished run 1
+finished run 2
+finished model 300000	 avg reward: [1086.]
+loading model 310000
+finished run 0
+finished run 1
+finished run 2
+finished model 310000	 avg reward: [764.6667]
+loading model 320000
+finished run 0
+finished run 1
+finished run 2
+finished model 320000	 avg reward: [773.6667]
+loading model 330000
+finished run 0
+finished run 1
+finished run 2
+finished model 330000	 avg reward: [570.]
+loading model 340000
+finished run 0
+finished run 1
+finished run 2
+finished model 340000	 avg reward: [761.3333]
+loading model 350000
+finished run 0
+finished run 1
+finished run 2
+finished model 350000	 avg reward: [1031.3334]
+loading model 360000
+finished run 0
+finished run 1
+finished run 2
+finished model 360000	 avg reward: [698.6667]
+loading model 370000
+finished run 0
+finished run 1
+finished run 2
+finished model 370000	 avg reward: [1055.]
+loading model 380000
+finished run 0
+finished run 1
+finished run 2
+finished model 380000	 avg reward: [1152.]
+loading model 390000
+finished run 0
+finished run 1
+finished run 2
+finished model 390000	 avg reward: [854.3333]
+loading model 400000
+finished run 0
+finished run 1
+finished run 2
+finished model 400000	 avg reward: [1010.]
+loading model 410000
+finished run 0
+finished run 1
+finished run 2
+finished model 410000	 avg reward: [780.3333]
+loading model 420000
+finished run 0
+finished run 1
+finished run 2
+finished model 420000	 avg reward: [689.3333]
+loading model 430000
+finished run 0
+finished run 1
+finished run 2
+finished model 430000	 avg reward: [646.3333]
+loading model 440000
+finished run 0
+finished run 1
+finished run 2
+finished model 440000	 avg reward: [857.6667]
+loading model 450000
+finished run 0
+finished run 1
+finished run 2
+finished model 450000	 avg reward: [1044.6666]
+loading model 460000
+finished run 0
+finished run 1
+finished run 2
+finished model 460000	 avg reward: [865.3333]
+loading model 470000
+finished run 0
+finished run 1
+finished run 2
+finished model 470000	 avg reward: [1281.]
+loading model 480000
+finished run 0
+finished run 1
+finished run 2
+finished model 480000	 avg reward: [882.]
+loading model 490000
+finished run 0
+finished run 1
+finished run 2
+finished model 490000	 avg reward: [673.]
+loading model 500000
+finished run 0
+finished run 1
+finished run 2
+finished model 500000	 avg reward: [681.6667]
+loading model 510000
+finished run 0
+finished run 1
+finished run 2
+finished model 510000	 avg reward: [1416.]
+loading model 520000
+finished run 0
+finished run 1
+finished run 2
+finished model 520000	 avg reward: [1039.6666]
+loading model 530000
+finished run 0
+finished run 1
+finished run 2
+finished model 530000	 avg reward: [1169.6666]
+loading model 540000
+finished run 0
+finished run 1
+finished run 2
+finished model 540000	 avg reward: [1502.3334]
+loading model 550000
+finished run 0
+finished run 1
+finished run 2
+finished model 550000	 avg reward: [898.6667]
+loading model 560000
+finished run 0
+finished run 1
+finished run 2
+finished model 560000	 avg reward: [1115.3334]
+loading model 570000
+finished run 0
+finished run 1
+finished run 2
+finished model 570000	 avg reward: [602.]
+loading model 580000
+finished run 0
+finished run 1
+finished run 2
+finished model 580000	 avg reward: [556.6667]
+loading model 590000
+finished run 0
+finished run 1
+finished run 2
+finished model 590000	 avg reward: [1009.6667]
+loading model 600000
+finished run 0
+finished run 1
+finished run 2
+finished model 600000	 avg reward: [714.6667]
+loading model 610000
+finished run 0
+finished run 1
+finished run 2
+finished model 610000	 avg reward: [496.66666]
+loading model 620000
+finished run 0
+finished run 1
+finished run 2
+finished model 620000	 avg reward: [1432.6666]
+loading model 630000
+finished run 0
+finished run 1
+finished run 2
+finished model 630000	 avg reward: [1227.6666]
+loading model 640000
+finished run 0
+finished run 1
+finished run 2
+finished model 640000	 avg reward: [623.3333]
+loading model 650000
+finished run 0
+finished run 1
+finished run 2
+finished model 650000	 avg reward: [1064.3334]
+loading model 660000
+finished run 0
+finished run 1
+finished run 2
+finished model 660000	 avg reward: [1845.]
+loading model 670000
+finished run 0
+finished run 1
+finished run 2
+finished model 670000	 avg reward: [1074.6666]
+loading model 680000
+finished run 0
+finished run 1
+finished run 2
+finished model 680000	 avg reward: [891.3333]
+loading model 690000
+finished run 0
+finished run 1
+finished run 2
+finished model 690000	 avg reward: [632.3333]
+loading model 700000
+finished run 0
+finished run 1
+finished run 2
+finished model 700000	 avg reward: [782.]
+loading model 710000
+finished run 0
+finished run 1
+finished run 2
+finished model 710000	 avg reward: [744.]
+loading model 720000
+finished run 0
+finished run 1
+finished run 2
+finished model 720000	 avg reward: [772.6667]
+loading model 730000
+finished run 0
+finished run 1
+finished run 2
+finished model 730000	 avg reward: [709.]
+loading model 740000
+finished run 0
+finished run 1
+finished run 2
+finished model 740000	 avg reward: [793.6667]
+loading model 750000
+finished run 0
+finished run 1
+finished run 2
+finished model 750000	 avg reward: [1045.]
+loading model 760000
+finished run 0
+finished run 1
+finished run 2
+finished model 760000	 avg reward: [1081.6666]
+loading model 770000
+finished run 0
+finished run 1
+finished run 2
+finished model 770000	 avg reward: [890.6667]
+loading model 780000
+finished run 0
+finished run 1
+finished run 2
+finished model 780000	 avg reward: [708.3333]
+loading model 790000
+finished run 0
+finished run 1
+finished run 2
+finished model 790000	 avg reward: [1154.]
+loading model 800000
+finished run 0
+finished run 1
+finished run 2
+finished model 800000	 avg reward: [505.66666]
+loading model 810000
+finished run 0
+finished run 1
+finished run 2
+finished model 810000	 avg reward: [884.3333]
+loading model 820000
+finished run 0
+finished run 1
+finished run 2
+finished model 820000	 avg reward: [740.3333]
+loading model 830000
+finished run 0
+finished run 1
+finished run 2
+finished model 830000	 avg reward: [721.]
+loading model 840000
+finished run 0
+finished run 1
+finished run 2
+finished model 840000	 avg reward: [511.66666]
+loading model 850000
+finished run 0
+finished run 1
+finished run 2
+finished model 850000	 avg reward: [979.]
+loading model 860000
+finished run 0
+finished run 1
+finished run 2
+finished model 860000	 avg reward: [1076.6666]
+loading model 870000
+finished run 0
+finished run 1
+finished run 2
+finished model 870000	 avg reward: [1072.6666]
+loading model 880000
+finished run 0
+finished run 1
+finished run 2
+finished model 880000	 avg reward: [1149.6666]
+loading model 890000
+finished run 0
+finished run 1
+finished run 2
+finished model 890000	 avg reward: [777.3333]
+loading model 900000
+finished run 0
+finished run 1
+finished run 2
+finished model 900000	 avg reward: [907.]
+loading model 910000
+finished run 0
+finished run 1
+finished run 2
+finished model 910000	 avg reward: [685.]
+loading model 920000
+finished run 0
+finished run 1
+finished run 2
+finished model 920000	 avg reward: [766.6667]
+loading model 930000
+finished run 0
+finished run 1
+finished run 2
+finished model 930000	 avg reward: [1341.3334]
+loading model 940000
+finished run 0
+finished run 1
+finished run 2
+finished model 940000	 avg reward: [542.6667]
+loading model 950000
+finished run 0
+finished run 1
+finished run 2
+finished model 950000	 avg reward: [859.3333]
+loading model 960000
+finished run 0
+finished run 1
+finished run 2
+finished model 960000	 avg reward: [1224.]
+loading model 970000
+finished run 0
+finished run 1
+finished run 2
+finished model 970000	 avg reward: [1145.]
+loading model 980000
+finished run 0
+finished run 1
+finished run 2
+finished model 980000	 avg reward: [1024.6666]
+loading model 990000
+finished run 0
+finished run 1
+finished run 2
+finished model 990000	 avg reward: [848.3333]
+loading model 1000000
+finished run 0
+finished run 1
+finished run 2
+finished model 1000000	 avg reward: [753.6667]
+loading model 1010000
+finished run 0
+finished run 1
+finished run 2
+finished model 1010000	 avg reward: [689.6667]
+loading model 1020000
+finished run 0
+finished run 1
+finished run 2
+finished model 1020000	 avg reward: [671.6667]
+loading model 1030000
+finished run 0
+finished run 1
+finished run 2
+finished model 1030000	 avg reward: [608.]
+loading model 1040000
+finished run 0
+finished run 1
+finished run 2
+finished model 1040000	 avg reward: [856.3333]
+loading model 1050000
+finished run 0
+finished run 1
+finished run 2
+finished model 1050000	 avg reward: [1603.6666]
+loading model 1060000
+finished run 0
+finished run 1
+finished run 2
+finished model 1060000	 avg reward: [883.3333]
+loading model 1070000
+finished run 0
+finished run 1
+finished run 2
+finished model 1070000	 avg reward: [872.6667]
+loading model 1080000
+finished run 0
+finished run 1
+finished run 2
+finished model 1080000	 avg reward: [773.6667]
+loading model 1090000
+finished run 0
+finished run 1
+finished run 2
+finished model 1090000	 avg reward: [861.3333]
+loading model 1100000
+finished run 0
+finished run 1
+finished run 2
+finished model 1100000	 avg reward: [563.]
+loading model 1110000
+finished run 0
+finished run 1
+finished run 2
+finished model 1110000	 avg reward: [630.6667]
+loading model 1120000
+finished run 0
+finished run 1
+finished run 2
+finished model 1120000	 avg reward: [1118.]
+loading model 1130000
+finished run 0
+finished run 1
+finished run 2
+finished model 1130000	 avg reward: [372.33334]
+loading model 1140000
+finished run 0
+finished run 1
+finished run 2
+finished model 1140000	 avg reward: [1134.]
+loading model 1150000
+finished run 0
+finished run 1
+finished run 2
+finished model 1150000	 avg reward: [2098.3333]
+loading model 1160000
+finished run 0
+finished run 1
+finished run 2
+finished model 1160000	 avg reward: [758.3333]
+loading model 1170000
+finished run 0
+finished run 1
+finished run 2
+finished model 1170000	 avg reward: [912.6667]
+loading model 1180000
+finished run 0
+finished run 1
+finished run 2
+finished model 1180000	 avg reward: [743.]
+loading model 1190000
+finished run 0
+finished run 1
+finished run 2
+finished model 1190000	 avg reward: [923.6667]
+loading model 1200000
+finished run 0
+finished run 1
+finished run 2
+finished model 1200000	 avg reward: [935.6667]
+loading model 1210000
+finished run 0
+finished run 1
+finished run 2
+finished model 1210000	 avg reward: [777.]
+loading model 1220000
+finished run 0
+finished run 1
+finished run 2
+finished model 1220000	 avg reward: [1402.]
+loading model 1230000
+finished run 0
+finished run 1
+finished run 2
+finished model 1230000	 avg reward: [378.33334]
+loading model 1240000
+finished run 0
+finished run 1
+finished run 2
+finished model 1240000	 avg reward: [513.]
+loading model 1250000
+finished run 0
+finished run 1
+finished run 2
+finished model 1250000	 avg reward: [733.6667]
+loading model 1260000
+finished run 0
+finished run 1
+finished run 2
+finished model 1260000	 avg reward: [806.3333]
+loading model 1270000
+finished run 0
+finished run 1
+finished run 2
+finished model 1270000	 avg reward: [641.6667]
+loading model 1280000
+finished run 0
+finished run 1
+finished run 2
+finished model 1280000	 avg reward: [921.3333]
+loading model 1290000
+finished run 0
+finished run 1
+finished run 2
+finished model 1290000	 avg reward: [728.3333]
+loading model 1300000
+finished run 0
+finished run 1
+finished run 2
+finished model 1300000	 avg reward: [495.33334]
+loading model 1310000
+finished run 0
+finished run 1
+finished run 2
+finished model 1310000	 avg reward: [766.3333]
+loading model 1320000
+finished run 0
+finished run 1
+finished run 2
+finished model 1320000	 avg reward: [631.3333]
+loading model 1330000
+finished run 0
+finished run 1
+finished run 2
+finished model 1330000	 avg reward: [485.33334]
+loading model 1340000
+finished run 0
+finished run 1
+finished run 2
+finished model 1340000	 avg reward: [644.]
+loading model 1350000
+finished run 0
+finished run 1
+finished run 2
+finished model 1350000	 avg reward: [1084.]
+loading model 1360000
+finished run 0
+finished run 1
+finished run 2
+finished model 1360000	 avg reward: [1347.3334]
+loading model 1370000
+finished run 0
+finished run 1
+finished run 2
+finished model 1370000	 avg reward: [1033.6666]
+loading model 1380000
+finished run 0
+finished run 1
+finished run 2
+finished model 1380000	 avg reward: [356.]
+loading model 1390000
+finished run 0
+finished run 1
+finished run 2
+finished model 1390000	 avg reward: [998.3333]
+loading model 1400000
+finished run 0
+finished run 1
+finished run 2
+finished model 1400000	 avg reward: [897.3333]
+loading model 1410000
+finished run 0
+finished run 1
+finished run 2
+finished model 1410000	 avg reward: [893.3333]
+loading model 1420000
+finished run 0
+finished run 1
+finished run 2
+finished model 1420000	 avg reward: [630.6667]
+loading model 1430000
+finished run 0
+finished run 1
+finished run 2
+finished model 1430000	 avg reward: [977.6667]
+loading model 1440000
+finished run 0
+finished run 1
+finished run 2
+finished model 1440000	 avg reward: [627.3333]
+loading model 1450000
+finished run 0
+finished run 1
+finished run 2
+finished model 1450000	 avg reward: [983.6667]
+loading model 1460000
+finished run 0
+finished run 1
+finished run 2
+finished model 1460000	 avg reward: [674.]
+loading model 1470000
+finished run 0
+finished run 1
+finished run 2
+finished model 1470000	 avg reward: [920.6667]
+loading model 1480000
+finished run 0
+finished run 1
+finished run 2
+finished model 1480000	 avg reward: [639.3333]
+loading model 1490000
+finished run 0
+finished run 1
+finished run 2
+finished model 1490000	 avg reward: [660.]
+loading model 1500000
+finished run 0
+finished run 1
+finished run 2
+finished model 1500000	 avg reward: [682.]
+loading model 1510000
+finished run 0
+finished run 1
+finished run 2
+finished model 1510000	 avg reward: [622.]
+loading model 1520000
+finished run 0
+finished run 1
+finished run 2
+finished model 1520000	 avg reward: [905.3333]
+loading model 1530000
+finished run 0
+finished run 1
+finished run 2
+finished model 1530000	 avg reward: [375.66666]
+loading model 1540000
+finished run 0
+finished run 1
+finished run 2
+finished model 1540000	 avg reward: [649.3333]
+loading model 1550000
+finished run 0
+finished run 1
+finished run 2
+finished model 1550000	 avg reward: [849.6667]
+loading model 1560000
+finished run 0
+finished run 1
+finished run 2
+finished model 1560000	 avg reward: [954.3333]
+loading model 1570000
+finished run 0
+finished run 1
+finished run 2
+finished model 1570000	 avg reward: [871.]
+loading model 1580000
+finished run 0
+finished run 1
+finished run 2
+finished model 1580000	 avg reward: [769.]
+loading model 1590000
+finished run 0
+finished run 1
+finished run 2
+finished model 1590000	 avg reward: [893.6667]
+loading model 1600000
+finished run 0
+finished run 1
+finished run 2
+finished model 1600000	 avg reward: [814.3333]
+loading model 1610000
+finished run 0
+finished run 1
+finished run 2
+finished model 1610000	 avg reward: [551.3333]
+loading model 1620000
+finished run 0
+finished run 1
+finished run 2
+finished model 1620000	 avg reward: [747.3333]
+loading model 1630000
+finished run 0
+finished run 1
+finished run 2
+finished model 1630000	 avg reward: [1527.3334]
+loading model 1640000
+finished run 0
+finished run 1
+finished run 2
+finished model 1640000	 avg reward: [317.]
+loading model 1650000
+finished run 0
+finished run 1
+finished run 2
+finished model 1650000	 avg reward: [965.3333]
+loading model 1660000
+finished run 0
+finished run 1
+finished run 2
+finished model 1660000	 avg reward: [767.6667]
+loading model 1670000
+finished run 0
+finished run 1
+finished run 2
+finished model 1670000	 avg reward: [757.3333]
+loading model 1680000
+finished run 0
+finished run 1
+finished run 2
+finished model 1680000	 avg reward: [515.]
+loading model 1690000
+finished run 0
+finished run 1
+finished run 2
+finished model 1690000	 avg reward: [1049.]
+loading model 1700000
+finished run 0
+finished run 1
+finished run 2
+finished model 1700000	 avg reward: [882.3333]
+loading model 1710000
+finished run 0
+finished run 1
+finished run 2
+finished model 1710000	 avg reward: [1140.3334]
+loading model 1720000
+finished run 0
+finished run 1
+finished run 2
+finished model 1720000	 avg reward: [917.]
+loading model 1730000
+finished run 0
+finished run 1
+finished run 2
+finished model 1730000	 avg reward: [1592.6666]
+loading model 1740000
+finished run 0
+finished run 1
+finished run 2
+finished model 1740000	 avg reward: [608.]
+loading model 1750000
+finished run 0
+finished run 1
+finished run 2
+finished model 1750000	 avg reward: [937.]
+loading model 1760000
+finished run 0
+finished run 1
+finished run 2
+finished model 1760000	 avg reward: [893.3333]
+loading model 1770000
+finished run 0
+finished run 1
+finished run 2
+finished model 1770000	 avg reward: [786.3333]
+loading model 1780000
+finished run 0
+finished run 1
+finished run 2
+finished model 1780000	 avg reward: [968.3333]
+loading model 1790000
+finished run 0
+finished run 1
+finished run 2
+finished model 1790000	 avg reward: [863.]
+loading model 1800000
+finished run 0
+finished run 1
+finished run 2
+finished model 1800000	 avg reward: [773.6667]
+loading model 1810000
+finished run 0
+finished run 1
+finished run 2
+finished model 1810000	 avg reward: [624.]
+loading model 1820000
+finished run 0
+finished run 1
+finished run 2
+finished model 1820000	 avg reward: [427.]
+loading model 1830000
+finished run 0
+finished run 1
+finished run 2
+finished model 1830000	 avg reward: [1110.]
+loading model 1840000
+finished run 0
+finished run 1
+finished run 2
+finished model 1840000	 avg reward: [501.]
+loading model 1850000
+finished run 0
+finished run 1
+finished run 2
+finished model 1850000	 avg reward: [1434.6666]
+loading model 1860000
+finished run 0
+finished run 1
+finished run 2
+finished model 1860000	 avg reward: [850.6667]
+loading model 1870000
+finished run 0
+finished run 1
+finished run 2
+finished model 1870000	 avg reward: [847.6667]
+loading model 1880000
+finished run 0
+finished run 1
+finished run 2
+finished model 1880000	 avg reward: [1540.]
+loading model 1890000
+finished run 0
+finished run 1
+finished run 2
+finished model 1890000	 avg reward: [737.3333]
+loading model 1900000
+finished run 0
+finished run 1
+finished run 2
+finished model 1900000	 avg reward: [772.6667]
+loading model 1910000
+finished run 0
+finished run 1
+finished run 2
+finished model 1910000	 avg reward: [641.3333]
+loading model 1920000
+finished run 0
+finished run 1
+finished run 2
+finished model 1920000	 avg reward: [900.3333]
+loading model 1930000
+finished run 0
+finished run 1
+finished run 2
+finished model 1930000	 avg reward: [778.6667]
+loading model 1940000
+finished run 0
+finished run 1
+finished run 2
+finished model 1940000	 avg reward: [495.33334]
+loading model 1950000
+finished run 0
+finished run 1
+finished run 2
+finished model 1950000	 avg reward: [786.]
+loading model 1960000
+finished run 0
+finished run 1
+finished run 2
+finished model 1960000	 avg reward: [381.33334]
+loading model 1970000
+finished run 0
+finished run 1
+finished run 2
+finished model 1970000	 avg reward: [638.]
+loading model 1980000
+finished run 0
+finished run 1
+finished run 2
+finished model 1980000	 avg reward: [742.6667]
+loading model 1990000
+finished run 0
+finished run 1
+finished run 2
+finished model 1990000	 avg reward: [740.3333]
+loading model 2000000
+finished run 0
+finished run 1
+finished run 2
+finished model 2000000	 avg reward: [499.66666]
+loading model 2010000
+finished run 0
+finished run 1
+finished run 2
+finished model 2010000	 avg reward: [737.3333]
+loading model 2020000
+finished run 0
+finished run 1
+finished run 2
+finished model 2020000	 avg reward: [376.66666]
+loading model 2030000
+finished run 0
+finished run 1
+finished run 2
+finished model 2030000	 avg reward: [794.6667]
+loading model 2040000
+finished run 0
+finished run 1
+finished run 2
+finished model 2040000	 avg reward: [606.3333]
+loading model 2050000
+finished run 0
+finished run 1
+finished run 2
+finished model 2050000	 avg reward: [380.33334]
+loading model 2060000
+finished run 0
+finished run 1
+finished run 2
+finished model 2060000	 avg reward: [250.33333]
+loading model 2070000
+finished run 0
+finished run 1
+finished run 2
+finished model 2070000	 avg reward: [631.]
+loading model 2080000
+finished run 0
+finished run 1
+finished run 2
+finished model 2080000	 avg reward: [1069.3334]
+loading model 2090000
+finished run 0
+finished run 1
+finished run 2
+finished model 2090000	 avg reward: [642.6667]
+loading model 2100000
+finished run 0
+finished run 1
+finished run 2
+finished model 2100000	 avg reward: [688.]
+loading model 2110000
+finished run 0
+finished run 1
+finished run 2
+finished model 2110000	 avg reward: [556.]
+loading model 2120000
+finished run 0
+finished run 1
+finished run 2
+finished model 2120000	 avg reward: [829.3333]
+loading model 2130000
+finished run 0
+finished run 1
+finished run 2
+finished model 2130000	 avg reward: [628.3333]
+loading model 2140000
+finished run 0
+finished run 1
+finished run 2
+finished model 2140000	 avg reward: [514.3333]
+loading model 2150000
+finished run 0
+finished run 1
+finished run 2
+finished model 2150000	 avg reward: [613.6667]
+loading model 2160000
+finished run 0
+finished run 1
+finished run 2
+finished model 2160000	 avg reward: [695.6667]
+loading model 2170000
+finished run 0
+finished run 1
+finished run 2
+finished model 2170000	 avg reward: [776.]
+loading model 2180000
+finished run 0
+finished run 1
+finished run 2
+finished model 2180000	 avg reward: [861.]
+loading model 2190000
+finished run 0
+finished run 1
+finished run 2
+finished model 2190000	 avg reward: [493.]
+loading model 2200000
+finished run 0
+finished run 1
+finished run 2
+finished model 2200000	 avg reward: [1107.]
+loading model 2210000
+finished run 0
+finished run 1
+finished run 2
+finished model 2210000	 avg reward: [1009.6667]
+loading model 2220000
+finished run 0
+finished run 1
+finished run 2
+finished model 2220000	 avg reward: [773.3333]
+loading model 2230000
+finished run 0
+finished run 1
+finished run 2
+finished model 2230000	 avg reward: [699.]
+loading model 2240000
+finished run 0
+finished run 1
+finished run 2
+finished model 2240000	 avg reward: [646.3333]
+loading model 2250000
+finished run 0
+finished run 1
+finished run 2
+finished model 2250000	 avg reward: [764.3333]
+loading model 2260000
+finished run 0
+finished run 1
+finished run 2
+finished model 2260000	 avg reward: [686.6667]
+loading model 2270000
+finished run 0
+finished run 1
+finished run 2
+finished model 2270000	 avg reward: [1069.3334]
+loading model 2280000
+finished run 0
+finished run 1
+finished run 2
+finished model 2280000	 avg reward: [691.6667]
+loading model 2290000
+finished run 0
+finished run 1
+finished run 2
+finished model 2290000	 avg reward: [371.]
+loading model 2300000
+finished run 0
+finished run 1
+finished run 2
+finished model 2300000	 avg reward: [641.]
+loading model 2310000
+finished run 0
+finished run 1
+finished run 2
+finished model 2310000	 avg reward: [567.3333]
+loading model 2320000
+finished run 0
+finished run 1
+finished run 2
+finished model 2320000	 avg reward: [1067.3334]
+loading model 2330000
+finished run 0
+finished run 1
+finished run 2
+finished model 2330000	 avg reward: [1081.3334]
+loading model 2340000
+finished run 0
+finished run 1
+finished run 2
+finished model 2340000	 avg reward: [973.3333]
+loading model 2350000
+finished run 0
+finished run 1
+finished run 2
+finished model 2350000	 avg reward: [1033.3334]
+loading model 2360000
+finished run 0
+finished run 1
+finished run 2
+finished model 2360000	 avg reward: [1006.6667]
+loading model 2370000
+finished run 0
+finished run 1
+finished run 2
+finished model 2370000	 avg reward: [868.6667]
+loading model 2380000
+finished run 0
+finished run 1
+finished run 2
+finished model 2380000	 avg reward: [768.]
+loading model 2390000
+finished run 0
+finished run 1
+finished run 2
+finished model 2390000	 avg reward: [870.3333]
+loading model 2400000
+finished run 0
+finished run 1
+finished run 2
+finished model 2400000	 avg reward: [976.6667]
+loading model 2410000
+finished run 0
+finished run 1
+finished run 2
+finished model 2410000	 avg reward: [1241.6666]
+loading model 2420000
+finished run 0
+finished run 1
+finished run 2
+finished model 2420000	 avg reward: [622.]
+loading model 2430000
+finished run 0
+finished run 1
+finished run 2
+finished model 2430000	 avg reward: [372.33334]
+loading model 2440000
+finished run 0
+finished run 1
+finished run 2
+finished model 2440000	 avg reward: [495.33334]
+loading model 2450000
+finished run 0
+finished run 1
+finished run 2
+finished model 2450000	 avg reward: [869.6667]
+loading model 2460000
+finished run 0
+finished run 1
+finished run 2
+finished model 2460000	 avg reward: [700.]
+loading model 2470000
+finished run 0
+finished run 1
+finished run 2
+finished model 2470000	 avg reward: [548.]
+loading model 2480000
+finished run 0
+finished run 1
+finished run 2
+finished model 2480000	 avg reward: [1037.3334]
+loading model 2490000
+finished run 0
+finished run 1
+finished run 2
+finished model 2490000	 avg reward: [832.3333]
+loading model 2500000
+finished run 0
+finished run 1
+finished run 2
+finished model 2500000	 avg reward: [1563.6666]
+loading model 2510000
+finished run 0
+finished run 1
+finished run 2
+finished model 2510000	 avg reward: [743.]
+loading model 2520000
+finished run 0
+finished run 1
+finished run 2
+finished model 2520000	 avg reward: [991.6667]
+loading model 2530000
+finished run 0
+finished run 1
+finished run 2
+finished model 2530000	 avg reward: [1220.3334]
+loading model 2540000
+finished run 0
+finished run 1
+finished run 2
+finished model 2540000	 avg reward: [968.6667]
+loading model 2550000
+finished run 0
+finished run 1
+finished run 2
+finished model 2550000	 avg reward: [936.6667]
+loading model 2560000
+finished run 0
+finished run 1
+finished run 2
+finished model 2560000	 avg reward: [1309.6666]
+loading model 2570000
+finished run 0
+finished run 1
+finished run 2
+finished model 2570000	 avg reward: [1094.]
+loading model 2580000
+finished run 0
+finished run 1
+finished run 2
+finished model 2580000	 avg reward: [371.]
+loading model 2590000
+finished run 0
+finished run 1
+finished run 2
+finished model 2590000	 avg reward: [1202.3334]
+loading model 2600000
+finished run 0
+finished run 1
+finished run 2
+finished model 2600000	 avg reward: [764.]
+loading model 2610000
+finished run 0
+finished run 1
+finished run 2
+finished model 2610000	 avg reward: [1233.6666]
+loading model 2620000
+finished run 0
+finished run 1
+finished run 2
+finished model 2620000	 avg reward: [420.66666]
+loading model 2630000
+finished run 0
+finished run 1
+finished run 2
+finished model 2630000	 avg reward: [644.3333]
+loading model 2640000
+finished run 0
+finished run 1
+finished run 2
+finished model 2640000	 avg reward: [675.3333]
+loading model 2650000
+finished run 0
+finished run 1
+finished run 2
+finished model 2650000	 avg reward: [956.]
+loading model 2660000
+finished run 0
+finished run 1
+finished run 2
+finished model 2660000	 avg reward: [945.6667]
+loading model 2670000
+finished run 0
+finished run 1
+finished run 2
+finished model 2670000	 avg reward: [629.6667]
+loading model 2680000
+finished run 0
+finished run 1
+finished run 2
+finished model 2680000	 avg reward: [861.3333]
+loading model 2690000
+finished run 0
+finished run 1
+finished run 2
+finished model 2690000	 avg reward: [1058.6666]
+loading model 2700000
+finished run 0
+finished run 1
+finished run 2
+finished model 2700000	 avg reward: [974.]
+loading model 2710000
+finished run 0
+finished run 1
+finished run 2
+finished model 2710000	 avg reward: [377.66666]
+loading model 2720000
+finished run 0
+finished run 1
+finished run 2
+finished model 2720000	 avg reward: [1041.6666]
+loading model 2730000
+finished run 0
+finished run 1
+finished run 2
+finished model 2730000	 avg reward: [770.6667]
+loading model 2740000
+finished run 0
+finished run 1
+finished run 2
+finished model 2740000	 avg reward: [611.]
+loading model 2750000
+finished run 0
+finished run 1
+finished run 2
+finished model 2750000	 avg reward: [380.]
+loading model 2760000
+finished run 0
+finished run 1
+finished run 2
+finished model 2760000	 avg reward: [407.66666]
+loading model 2770000
+finished run 0
+finished run 1
+finished run 2
+finished model 2770000	 avg reward: [1315.3334]
+loading model 2780000
+finished run 0
+finished run 1
+finished run 2
+finished model 2780000	 avg reward: [648.6667]
+loading model 2790000
+finished run 0
+finished run 1
+finished run 2
+finished model 2790000	 avg reward: [551.]
+loading model 2800000
+finished run 0
+finished run 1
+finished run 2
+finished model 2800000	 avg reward: [911.]
+loading model 2810000
+finished run 0
+finished run 1
+finished run 2
+finished model 2810000	 avg reward: [637.3333]
+loading model 2820000
+finished run 0
+finished run 1
+finished run 2
+finished model 2820000	 avg reward: [870.6667]
+loading model 2830000
+finished run 0
+finished run 1
+finished run 2
+finished model 2830000	 avg reward: [1345.]
+loading model 2840000
+finished run 0
+finished run 1
+finished run 2
+finished model 2840000	 avg reward: [915.3333]
+loading model 2850000
+finished run 0
+finished run 1
+finished run 2
+finished model 2850000	 avg reward: [856.6667]
+loading model 2860000
+finished run 0
+finished run 1
+finished run 2
+finished model 2860000	 avg reward: [541.]
+loading model 2870000
+finished run 0
+finished run 1
+finished run 2
+finished model 2870000	 avg reward: [634.]
+loading model 2880000
+finished run 0
+finished run 1
+finished run 2
+finished model 2880000	 avg reward: [877.3333]
+loading model 2890000
+finished run 0
+finished run 1
+finished run 2
+finished model 2890000	 avg reward: [861.6667]
+loading model 2900000
+finished run 0
+finished run 1
+finished run 2
+finished model 2900000	 avg reward: [855.]
+loading model 2910000
+finished run 0
+finished run 1
+finished run 2
+finished model 2910000	 avg reward: [916.]
+loading model 2920000
+finished run 0
+finished run 1
+finished run 2
+finished model 2920000	 avg reward: [1625.]
+loading model 2930000
+finished run 0
+finished run 1
+finished run 2
+finished model 2930000	 avg reward: [748.6667]
+loading model 2940000
+finished run 0
+finished run 1
+finished run 2
+finished model 2940000	 avg reward: [1366.3334]
+loading model 2950000
+finished run 0
+finished run 1
+finished run 2
+finished model 2950000	 avg reward: [1055.6666]
+loading model 2960000
+finished run 0
+finished run 1
+finished run 2
+finished model 2960000	 avg reward: [1425.6666]
+loading model 2970000
+finished run 0
+finished run 1
+finished run 2
+finished model 2970000	 avg reward: [686.6667]
+loading model 2980000
+finished run 0
+finished run 1
+finished run 2
+finished model 2980000	 avg reward: [932.]
+loading model 2990000
+finished run 0
+finished run 1
+finished run 2
+finished model 2990000	 avg reward: [847.]
+loading model 3000000
+finished run 0
+finished run 1
+finished run 2
+finished model 3000000	 avg reward: [839.]
+loading model 3010000
+finished run 0
+finished run 1
+finished run 2
+finished model 3010000	 avg reward: [626.]
+loading model 3020000
+finished run 0
+finished run 1
+finished run 2
+finished model 3020000	 avg reward: [1168.6666]
+loading model 3030000
+finished run 0
+finished run 1
+finished run 2
+finished model 3030000	 avg reward: [918.6667]
+loading model 3040000
+finished run 0
+finished run 1
+finished run 2
+finished model 3040000	 avg reward: [600.6667]
+loading model 3050000
+finished run 0
+finished run 1
+finished run 2
+finished model 3050000	 avg reward: [636.6667]
+loading model 3060000
+finished run 0
+finished run 1
+finished run 2
+finished model 3060000	 avg reward: [908.]
+loading model 3070000
+finished run 0
+finished run 1
+finished run 2
+finished model 3070000	 avg reward: [1259.3334]
+loading model 3080000
+finished run 0
+finished run 1
+finished run 2
+finished model 3080000	 avg reward: [252.]
+loading model 3090000
+finished run 0
+finished run 1
+finished run 2
+finished model 3090000	 avg reward: [373.]
+loading model 3100000
+finished run 0
+finished run 1
+finished run 2
+finished model 3100000	 avg reward: [373.66666]
+loading model 3110000
+finished run 0
+finished run 1
+finished run 2
+finished model 3110000	 avg reward: [1160.]
+loading model 3120000
+finished run 0
+finished run 1
+finished run 2
+finished model 3120000	 avg reward: [635.3333]
+loading model 3130000
+finished run 0
+finished run 1
+finished run 2
+finished model 3130000	 avg reward: [371.]
+loading model 3140000
+finished run 0
+finished run 1
+finished run 2
+finished model 3140000	 avg reward: [1073.6666]
+loading model 3150000
+finished run 0
+finished run 1
+finished run 2
+finished model 3150000	 avg reward: [618.]
+loading model 3160000
+finished run 0
+finished run 1
+finished run 2
+finished model 3160000	 avg reward: [861.]
+loading model 3170000
+finished run 0
+finished run 1
+finished run 2
+finished model 3170000	 avg reward: [244.33333]
+loading model 3180000
+finished run 0
+finished run 1
+finished run 2
+finished model 3180000	 avg reward: [1142.6666]
+loading model 3190000
+finished run 0
+finished run 1
+finished run 2
+finished model 3190000	 avg reward: [380.66666]
+loading model 3200000
+finished run 0
+finished run 1
+finished run 2
+finished model 3200000	 avg reward: [618.6667]
+loading model 3210000
+finished run 0
+finished run 1
+finished run 2
+finished model 3210000	 avg reward: [770.6667]
+loading model 3220000
+finished run 0
+finished run 1
+finished run 2
+finished model 3220000	 avg reward: [515.]
+loading model 3230000
+finished run 0
+finished run 1
+finished run 2
+finished model 3230000	 avg reward: [761.]
+loading model 3240000
+finished run 0
+finished run 1
+finished run 2
+finished model 3240000	 avg reward: [486.]
+loading model 3250000
+finished run 0
+finished run 1
+finished run 2
+finished model 3250000	 avg reward: [638.3333]
+loading model 3260000
+finished run 0
+finished run 1
+finished run 2
+finished model 3260000	 avg reward: [421.]
+loading model 3270000
+finished run 0
+finished run 1
+finished run 2
+finished model 3270000	 avg reward: [972.]
+loading model 3280000
+finished run 0
+finished run 1
+finished run 2
+finished model 3280000	 avg reward: [1044.6666]
+loading model 3290000
+finished run 0
+finished run 1
+finished run 2
+finished model 3290000	 avg reward: [413.33334]
+loading model 3300000
+finished run 0
+finished run 1
+finished run 2
+finished model 3300000	 avg reward: [551.3333]
+loading model 3310000
+finished run 0
+finished run 1
+finished run 2
+finished model 3310000	 avg reward: [786.3333]
+loading model 3320000
+finished run 0
+finished run 1
+finished run 2
+finished model 3320000	 avg reward: [787.6667]
+loading model 3330000
+finished run 0
+finished run 1
+finished run 2
+finished model 3330000	 avg reward: [853.6667]
+loading model 3340000
+finished run 0
+finished run 1
+finished run 2
+finished model 3340000	 avg reward: [1562.3334]
+loading model 3350000
+finished run 0
+finished run 1
+finished run 2
+finished model 3350000	 avg reward: [374.]
+loading model 3360000
+finished run 0
+finished run 1
+finished run 2
+finished model 3360000	 avg reward: [730.3333]
+loading model 3370000
+finished run 0
+finished run 1
+finished run 2
+finished model 3370000	 avg reward: [1105.6666]
+loading model 3380000
+finished run 0
+finished run 1
+finished run 2
+finished model 3380000	 avg reward: [790.3333]
+loading model 3390000
+finished run 0
+finished run 1
+finished run 2
+finished model 3390000	 avg reward: [973.]
+loading model 3400000
+finished run 0
+finished run 1
+finished run 2
+finished model 3400000	 avg reward: [864.3333]
+loading model 3410000
+finished run 0
+finished run 1
+finished run 2
+finished model 3410000	 avg reward: [768.3333]
+loading model 3420000
+finished run 0
+finished run 1
+finished run 2
+finished model 3420000	 avg reward: [974.]
+loading model 3430000
+finished run 0
+finished run 1
+finished run 2
+finished model 3430000	 avg reward: [817.3333]
+loading model 3440000
+finished run 0
+finished run 1
+finished run 2
+finished model 3440000	 avg reward: [1056.]
+loading model 3450000
+finished run 0
+finished run 1
+finished run 2
+finished model 3450000	 avg reward: [780.3333]
+loading model 3460000
+finished run 0
+finished run 1
+finished run 2
+finished model 3460000	 avg reward: [426.33334]
+loading model 3470000
+finished run 0
+finished run 1
+finished run 2
+finished model 3470000	 avg reward: [690.6667]
+loading model 3480000
+finished run 0
+finished run 1
+finished run 2
+finished model 3480000	 avg reward: [906.3333]
+loading model 3490000
+finished run 0
+finished run 1
+finished run 2
+finished model 3490000	 avg reward: [1295.]
+loading model 3500000
+finished run 0
+finished run 1
+finished run 2
+finished model 3500000	 avg reward: [244.]
+loading model 3510000
+finished run 0
+finished run 1
+finished run 2
+finished model 3510000	 avg reward: [807.]
+loading model 3520000
+finished run 0
+finished run 1
+finished run 2
+finished model 3520000	 avg reward: [646.6667]
+loading model 3530000
+finished run 0
+finished run 1
+finished run 2
+finished model 3530000	 avg reward: [807.3333]
+loading model 3540000
+finished run 0
+finished run 1
+finished run 2
+finished model 3540000	 avg reward: [1046.3334]
+loading model 3550000
+finished run 0
+finished run 1
+finished run 2
+finished model 3550000	 avg reward: [414.66666]
+loading model 3560000
+finished run 0
+finished run 1
+finished run 2
+finished model 3560000	 avg reward: [883.]
+loading model 3570000
+finished run 0
+finished run 1
+finished run 2
+finished model 3570000	 avg reward: [1144.]
+loading model 3580000
+finished run 0
+finished run 1
+finished run 2
+finished model 3580000	 avg reward: [425.]
+loading model 3590000
+finished run 0
+finished run 1
+finished run 2
+finished model 3590000	 avg reward: [534.6667]
+loading model 3600000
+finished run 0
+finished run 1
+finished run 2
+finished model 3600000	 avg reward: [928.6667]
+loading model 3610000
+finished run 0
+finished run 1
+finished run 2
+finished model 3610000	 avg reward: [1001.6667]
+loading model 3620000
+finished run 0
+finished run 1
+finished run 2
+finished model 3620000	 avg reward: [717.]
+loading model 3630000
+finished run 0
+finished run 1
+finished run 2
+finished model 3630000	 avg reward: [1722.3334]
+loading model 3640000
+finished run 0
+finished run 1
+finished run 2
+finished model 3640000	 avg reward: [537.6667]
+loading model 3650000
+finished run 0
+finished run 1
+finished run 2
+finished model 3650000	 avg reward: [690.6667]
+loading model 3660000
+finished run 0
+finished run 1
+finished run 2
+finished model 3660000	 avg reward: [634.3333]
+loading model 3670000
+finished run 0
+finished run 1
+finished run 2
+finished model 3670000	 avg reward: [636.6667]
+loading model 3680000
+finished run 0
+finished run 1
+finished run 2
+finished model 3680000	 avg reward: [892.6667]
+loading model 3690000
+finished run 0
+finished run 1
+finished run 2
+finished model 3690000	 avg reward: [726.]
+loading model 3700000
+finished run 0
+finished run 1
+finished run 2
+finished model 3700000	 avg reward: [378.66666]
+loading model 3710000
+finished run 0
+finished run 1
+finished run 2
+finished model 3710000	 avg reward: [251.]
+loading model 3720000
+finished run 0
+finished run 1
+finished run 2
+finished model 3720000	 avg reward: [618.3333]
+loading model 3730000
+finished run 0
+finished run 1
+finished run 2
+finished model 3730000	 avg reward: [1000.3333]
+loading model 3740000
+finished run 0
+finished run 1
+finished run 2
+finished model 3740000	 avg reward: [1077.3334]
+loading model 3750000
+finished run 0
+finished run 1
+finished run 2
+finished model 3750000	 avg reward: [662.]
+loading model 3760000
+finished run 0
+finished run 1
+finished run 2
+finished model 3760000	 avg reward: [692.3333]
+loading model 3770000
+finished run 0
+finished run 1
+finished run 2
+finished model 3770000	 avg reward: [1334.]
+loading model 3780000
+finished run 0
+finished run 1
+finished run 2
+finished model 3780000	 avg reward: [1049.6666]
+loading model 3790000
+finished run 0
+finished run 1
+finished run 2
+finished model 3790000	 avg reward: [373.66666]
+loading model 3800000
+finished run 0
+finished run 1
+finished run 2
+finished model 3800000	 avg reward: [935.]
+loading model 3810000
+finished run 0
+finished run 1
+finished run 2
+finished model 3810000	 avg reward: [776.6667]
+loading model 3820000
+finished run 0
+finished run 1
+finished run 2
+finished model 3820000	 avg reward: [857.]
+loading model 3830000
+finished run 0
+finished run 1
+finished run 2
+finished model 3830000	 avg reward: [1142.6666]
+loading model 3840000
+finished run 0
+finished run 1
+finished run 2
+finished model 3840000	 avg reward: [616.]
+loading model 3850000
+finished run 0
+finished run 1
+finished run 2
+finished model 3850000	 avg reward: [667.3333]
+loading model 3860000
+finished run 0
+finished run 1
+finished run 2
+finished model 3860000	 avg reward: [1239.3334]
+loading model 3870000
+finished run 0
+finished run 1
+finished run 2
+finished model 3870000	 avg reward: [916.3333]
+loading model 3880000
+finished run 0
+finished run 1
+finished run 2
+finished model 3880000	 avg reward: [689.6667]
+loading model 3890000
+finished run 0
+finished run 1
+finished run 2
+finished model 3890000	 avg reward: [964.6667]
+loading model 3900000
+finished run 0
+finished run 1
+finished run 2
+finished model 3900000	 avg reward: [984.]
+loading model 3910000
+finished run 0
+finished run 1
+finished run 2
+finished model 3910000	 avg reward: [922.3333]
+loading model 3920000
+finished run 0
+finished run 1
+finished run 2
+finished model 3920000	 avg reward: [765.3333]
+loading model 3930000
+finished run 0
+finished run 1
+finished run 2
+finished model 3930000	 avg reward: [975.6667]
+loading model 3940000
+finished run 0
+finished run 1
+finished run 2
+finished model 3940000	 avg reward: [775.]
+loading model 3950000
+finished run 0
+finished run 1
+finished run 2
+finished model 3950000	 avg reward: [738.3333]
+loading model 3960000
+finished run 0
+finished run 1
+finished run 2
+finished model 3960000	 avg reward: [868.6667]
+loading model 3970000
+finished run 0
+finished run 1
+finished run 2
+finished model 3970000	 avg reward: [1021.3333]
+loading model 3980000
+finished run 0
+finished run 1
+finished run 2
+finished model 3980000	 avg reward: [1012.3333]
+loading model 3990000
+finished run 0
+finished run 1
+finished run 2
+finished model 3990000	 avg reward: [631.]
+loading model 4000000
+finished run 0
+finished run 1
+finished run 2
+finished model 4000000	 avg reward: [1002.3333]
