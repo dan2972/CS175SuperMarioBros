@@ -1,4 +1,6 @@
 # Introduction
+(Note: We all worked together on Daniel Song's PC, so the commit history has Daniel Song's username, but Aditya Phatak and Suvir Bajaj were present with Daniel when they worked on all the changes and committed them).
+
 This is the GitHub repository containing the jupyter notebook files that we used for our 175 final project. For our project, we experimented with three different approaches (REINFORCE, Double Deep Q-Learning, and Proximal Policy Optimization) to train an agent to complete a level in Super Mario Bros. As such, our project is split into three main Jupyter notebooks, one for each approach. We also experimented with modifying the reward function of the environment to encourage the agent to collect coins or kill enemies. We used the change in overall score multiplied by a small constant added to the reward function to achieve this. Consequently, we trained models using either 1/10 or 1/50 as the constants and examined the differences in the behavior of the agent.  
 
 # Notes
